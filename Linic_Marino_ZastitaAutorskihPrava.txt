@@ -1,0 +1,125 @@
+﻿SVEUČILIŠTE U RIJECI
+ODJEL ZA INFORMATIKU
+Preddiplomski studij informatike
+
+Seminarski rad iz kolegija
+OSNOVE INFORMATIKE
+
+ZAŠTITA AUTORSKIH PRAVA
+
+Autor: Marino Linić
+Mentorica: Prof. dr. sc. Sanda Martinčić-Ipšić
+
+U Rijeci, prosinca 2019.
+Sadržaj
+1. Uvod	3
+2. Povijest autorskih prava 4
+3. Diskusija 6
+3.1. Kritika zaštite autorskih prava 6
+3.1.1. Ekonomski argumenti 6
+3.1.2. Kulturološki i ideološki argumenti 6
+3.1.3. Zlouporaba i reforma 7
+3.2. Obrana zaštite autorskih prava 7
+3.3. Autorska prava na internetu i u računalnoj tehnologiji 8
+4. Zaključak 9
+Indeks 10
+Popis slika 11
+Literatura 12
+
+1. Uvod
+U ovom seminarskom radu razmatrat će se koncept zaštite autorskih prava1, kontekst odnosno povijest autorskih prava te važnost i filozofsku pozadinu zaštite autorskih prava u svijetu, uključujući Republiku Hrvatsku.
+Autorska prava dio su razvijenih zemalja već nekoliko stoljeća, a njihova uloga postajala je sve izraženija s obzirom na lakoću s kojom je bilo moguće kopiranje materijala. Uzimajući u obzir internet2 i njegovo širenje te njegov novitet uz nastanak multimedijskog3 sadržaja i odnosa sa područjem informatike4, pitanje zaštite autorskih prava neupitno je značajno. Hrvatsko društvo, kao i međunarodno, se ne slaže nužno oko postojećih zakona—argumenti za i protiv dosadašnjeg stanja brojni su. Zbog toga je bitno predstaviti autorska prava uključujući više perspektiva, i ovaj rad sadržavat će diskusiju oko njihove implementacije.
+Fokus ovoga rada stoga će biti objasniti kako su se autorska prava razvijala, zašto postoje i na koji način pridonose potrošačima i proizvođačima u kontekstu računalne tehnologije i informatike.
+
+2. Povijest autorskih prava
+Povijest razvitka autorskih prava ključna je za razumijevanje same potrebe autorskih prava. Prije razvitka tiskarskog stroja5, koncept autorskih prava bio je velikim dijelom nepoznat, unatoč nekim iznimkama. Jedan od primjera izvan domene tekstualnog sadržaja mogu biti razne srednjovjekovne, narodne pjesme koje obično nemaju autora, i takav pristup postojao je kroz veliki dio povijesti.
+Najbitnije je spomenuti da u takvim društvima, osim zbog kulturološkog utjecaja, jednostavno nije bilo potrebe za autorskim pravima. Relativno malen postotak stanovništva mogao je čitati, skladati, svirati i pisati, te se izražavati ili imati vještine u umjetnosti općenito. Većina znanstvenih, umjetničkih ili književnih djela kroz srednji vijek bila su rezultat zadovoljavanja zahtjeva aristokracije ili Crkve, a prema tome je slijedilo i da je sadržaj bio lako cenzuriran. Sami autori uglavnom nisu živjeli u kulturi koja je naglašavala njihov individualizam, ali s obzirom na količinu rada koja se morala uložiti za kopiranje njihovih djela, kultura sama po sebi nije nužno morala imati utjecaja.
+Nakon izuma tiskarskog stroja, kopiranje, dijeljenje i širenje informacija u tekstualnom obliku postalo je neizmjerno lakše. Broj knjiga eksponencijalno je rastao, a veliki broj djela koja su inače bila dostupna samo malom broju ljudi odjednom su bila prevedena i tiskana na materinje jezike srednjovjekovnih europskih populacija, od kojih je najznačajnija bila Biblija. Taj period označila je i protestantska reformacija koja je nepovratno politički razdvojila dijelove Europe.
+Upravo zbog toga počela je cenzura tiskanog sadržaja i limitiranje tiskarskih strojeva. Tiskare su morale imati službenu licencu za trgovanje i proizvodnju knjiga, a licence bi im obično dopuštale da tiskaju jedno djelo određeni period godina dok bi u isto vrijeme dali vlasniku tiskare pravo da sprječava tiskanje istog djela ostalim tiskarama, iako je licenca, doduše, vrijedila samo za teritorij u kojem je dana. To je kulminiralo u proširenju monopolističkog ponašanja.
+
+Taj običaj nastavio je sve do 1624. godine kada je u Velikoj Britaniji donesen Statut monopola (engl. Statute of Monopolies) i koji se smatra početkom patentnog6 prava. Stoljeće kasnije, donesen je Statut Ane (engl. Statute of Anne) i on se smatra početkom autorskih prava.
+Statut Ane bio je prekretnica u povijesti zaštite autorskih prava. Fokus statuta bio je da se učenje i obrazovanje proširuju, i završio je period gdje su samo odobrena, cenzurirana djela mogla biti tiskana. Statut je dao legalnu protekciju izdavačima na 14. Također je i uveo pojam javnog vlasništva nakon vremena isteka prava.
+Koncept zaštite autorskih prava od tada se mijenjao, a prvi pokušaj internacionalizacije autorskih prava dogodio se krajem 19. stoljeća na tzv. Berneovoj konvenciji (Berne Convention) 1886. godine kada se veliki broj zemalja složio oko standardiziranih pravila. Najvažnije minimalno pravilo bilo je da je autorovo djelo pod zaštitom njegov cijeli život plus 50 godina. Na tome se temelje i današnja pravila. Berneove konvencije nastavile su se organizirati tijekom 20. stoljeća. (History of copyright 2019)
+
+Tablica 1. Prikaz eksponencijalnog rasta kopija knjiga iz srednjeg u moderni vijek. Zbog mjerljivo lakšeg kopiranja knjiga nakon izuma tiskarskog stroja, nastala je potreba za autorskim pravima. (History of copyright 2019)
+
+3. Diskusija
+Ideja zaštite autorskih prava i patenata u 21. stoljeću često je kritizirana, ne samo zbog implementacije, već i ideologije. Prema tome, autorsko pravo kontroverzna je tema i potrebno je razumjeti njezinu modernu ideološku i legalnu premisu.
+
+3.1. Kritika zaštite autorskih prava
+Kritika autorskih prava vrlo je široka i uključuje ekonomske, filozofske i legalne argumente. Tradicija kritike autorskih prava seže od samog početka njihovih implementacija, no dolaskom interneta se kritiziranje u društvu pojačalo.
+
+3.1.1. Ekonomski argumenti
+Jedan od ekonomskih (legalnih) argumenata protiv autorskih prava temelji se na činjenici da su autorska prava, kao intelektualno vlasništvo, fundamentalno drugačija od fizičkih prava i da se na njima ne može temeljiti ideja nestašice i krađe. Naime, dok se fizički predmet može ukrasti i vlasnika trajno lišiti vlasništva, autor intelektualnog vlasništva nikada ne gubi svoje vlasništvo nad svojim radom.
+Nadalje, nije u potpunosti jasno ako autorska prava doista stimuliraju autore da se angažiraju u kreativni proces i time doprinose ekonomiji. (Criticism of copyright 2019) Osim iz povijesne perspektive, i u današnje vrijeme većina manje poznatih umjetnika izbjegava autorska prava, većinom zato što se korištenje njihovog materijala može smatrati vrstom promidžbe. Ako je cilj autorskih prava pridonositi ekonomiji na način da novi autori njih izbjegavaju, ona nisu efikasna.
+
+3.1.2. Kulturološki i ideološki argumenti
+Neki od ideoloških argumenata u potpunoj su opoziciji uopće s idejom autorskih prava i ciljaju da ih se ukine. Razni pokreti počeli su se stvarati nakon eksplozije interneta i platforma koje su omogućavale tzv. „peer-to-peer“ 7 dijeljenje sadržaja koji je kršio autorska prava. Takvi pokreti obično tvrde da je znanje samo po sebi ljudsko pravo, slično poput prava na obrazovanje, te da se kultura treba promijeniti na način da doista potiče znanje i tehnološki progres.
+Drugi, poput Lawrencea Lianga, osporavaju da je „autor“ definiran pojam i da nema univerzalno značenje u svim kulturama. Autorsko pravo podrazumijeva kulturološki kontekst u kojemu je autor odvojen od kolektivnog društva. Također se oslanja na pretpostavku da autori ne bi imali razloga zašto stvarati nova djela bez ekonomskog poticaja. Liang tvrdi, međutim, da autori svjesno stvaraju nova djela čak i kada znaju da neće imati uspjeha ili ga nisu niti imali, odnosno tada kada nisu imali koristi od autorskih prava. Povrh toga, Liang upućuje na činjenicu da ljudi stvaraju djela iz osobnog zadovoljstva ili da pridobiju poštovanje svoje zajednice. 19. stoljeće bilo je dokaz da je autorsko pravo više pridonijelo izdavačima nego piscima, on tvrdi. (Criticism of copyright 2019)
+
+3.1.3. Zlouporaba i reforma
+Neki bi samo reformirali autorska prava zbog njihove zlouporabe. Electronic Frontier Foundation8 (EFF) jedna je od organizacija koja pokušava promijeniti zakone. Jedan od primjera zlouporabe zaštite autorskih prava koje EFF navodi su u obliku masovnih parnica zbog bespravnog skidanja sadržaja s interneta. Tvrtke vode privatne građane na sudske postupke u kojima je građanima lakše i jeftinije odustati od obrane zbog visokih cijena postupka. Na taj način neke firme i zarađuju veliki dio svojeg novca. (Electronic Frontier Foundation n.d.) Licence poput Creative Commons9 također su primjer indirektne reforme.
+
+3.2. Obrana zaštite autorskih prava
+Unatoč kritikama, zaštita autorskih prava zadržana je. Zagovornici autorskih prava tvrde da izdavači i autori ne bi mogli izbjeći utjecaj tržišta i da bi to dovelo do smanjenja proizvodnje. Također tvrde da autorsko pravo daje posebni legalni okvir u kojemu autor ima slobodu govora jer se njegova djela priznaju kao njegova, time omogućavajući da autor izbjegne cenzuru svojeg rada. 
+Zagovornici autorskih prava također se ne slažu s kritičarima vezano za nekoliko pretpostavka. Jedna od tih je da se s intelektualnim vlasništvom ne bi trebalo postupati jednako kao i s fizičkim vlasništvom. Vlasnik s fizičkim vlasništvom ima pravo odlučiti na koji će se način ono koristiti, i zbog toga na isti način to može odlučiti i s intelektualnim, tvrde.  Naposljetku tvrde i da autorska prava štite i omogućavaju raznoliko slobodno tržište, te da sprječavaju monopol radije nego da ga kultiviraju. (Hart 2012)
+
+3.3. Autorska prava na internetu i u računalnoj tehnologiji
+U području računalne tehnologije, autorska prava većinom se odnose na stvaranje softvera, odnosno programskog koda. Patenti potencijalno štete inovaciji, ali također štite autore.
+Nakon eksplozije interneta, postalo je bitno ponovno prilagoditi autorska prava i u njih uključiti sadržaj na internetu. Stoga je američki Kongres 1998. godine implementirao Digital Millennium Copyright Act (DMCA). DMCA je povećao i na razne druge načine definirao kazne za kršenje autorskih prava na internetu. (The Digital Millennium Copyright Act of 1998) 
+Ipak, DMCA se u moderno vrijeme može smatrati djelomično zastarjelim s obzirom na način na koji dijeljenje i učestalost dijeljenja funkcionira na internetu. Budući da se većina velikih internetskih firmi nalazi u SAD-u, DMCA je postao sinonim za globalna autorska prava na internetu. Njegova zlouporaba odnosno poticanje zlouporabe često je; jedan od primjera je oduzimanje cijele zarade pojedinačnog videa YouTube kreatorima od strane glazbene industrije na temelju nekoliko sekundi korištenja pjesme zaštićene autorskim pravima, što je proizvod neefikasnog YouTube sustava koji pokušava izbjeći DMCA tužbe. 
+
+Slika 2. Primjer ograničavanja video materijala uzrokovanim navodnim kršenjem DMCA pravila na YouTube platformi.
+Izvor: http://blog.metamorphium.com/2012/12/22/achievement-unlocked/
+
+4. Zaključak
+Koncept zaštite autorskih prava usko je vezan uz izum tiskarskoga stroja jer je kopiranje djela i radova postalo relativno lagano i dostupno. Iako su počeci autorskih prava bili vezani uz cenzuru, danas su prava autora definirana i široka, a uključuju i multimediju. Autorska prava napravljena su s ciljem da se motivira autore da obogaćuju društvo stvaranjem unikatnih djela tako što imaju pravo odlučivati na koji način će se njihova djela koristiti. Međutim, nije u potpunosti jasno koliko autorska prava imaju pozitivan utjecaj na kreativnost i učestalost pojavljivanja novih autora, pa su zbog toga kritike iz raznih perspektiva česte u 21. stoljeću.
+U području računalne tehnologije, patenti, kao i u ostalim područjima, mogu imati negativan utjecaj u inovaciji, a za internet je ideja autorskih prava potencijalno djelomično zastarjela, te se lako može doći do zlouporabe. Za informatičare razumijevanje zaštite autorskih prava je ključno s obzirom na rad s informacijama i djelima mnogih autora. 
+
+Indeks
+
+autorsko pravo	3, 4, 5, 6, 7, 8, 9
+Berneova konvencija 5
+cenzura	4, 9
+Creative Commons 7
+informatika 3
+internet 3, 6, 8, 9
+multimedija 3, 9
+patent 5, 9
+statut Ane 4, 5
+statut monopola 5
+tiskarski stroj	4, 9
+
+Popis tablica i slika
+Tablica 1. Prikaz eksponencijalnog rasta kopija knjiga iz srednjeg u moderni vijek. Zbog mjerljivo lakšeg kopiranja knjiga nakon izuma tiskarskog stroja, nastala je potreba za autorskim pravima. (History of copyright 2019) 5
+
+Slika 1. Statut Ane, poznat i kao „Copyright Act of 1710“, prvi je zakon u povijesti koji je definirao autorska prava, a potječe iz Velike Britanije. (History of copyright 2019) 4
+Slika 2. Primjer ograničavanja video materijala uzrokovanim navodnim kršenjem DMCA pravila na YouTube platformi. 8
+
+Literatura
+Creative Commons. n.d. What We Do. Pokušaj pristupa 4. prosinca 2019. https://creativecommons.org/about/.
+2019. Criticism of copyright. 20. listopada. Pokušaj pristupa 3. prosinca 2019. https://en.wikipedia.org/wiki/Criticism_of_copyright.
+Dictionary, Merriam-Webster Inc. n.d. Peer-to-peer. Pokušaj pristupa 4. prosinca 2019. https://www.merriam-webster.com/dictionary/peer-to-peer.
+Electronic Frontier Foundation. n.d. About. Pokušaj pristupa 4. prosinca 2019. https://www.eff.org/about.
+—. n.d. Copyright Trolls. Pokušaj pristupa 4. prosinca 2019. https://www.eff.org/issues/copyright-trolls.
+Hart, Terry. 2012. The Purposes of Copyright Law and “Anti-Copyright” Arguments. 19. studenoga. Pokušaj pristupa 4. prosinca 2019. http://www.copyhype.com/2012/11/the-purposes-of-copyright-law-and-anti-copyright-arguments/.
+2019. History of copyright. 9. studenoga. Pokušaj pristupa 3. prosinca 2019. https://en.wikipedia.org/wiki/History_of_copyright.
+Hoić-Božić, Nataša. 2019. »Uvodni pojmovi o multimediji.« U Multimedijski sustavi, 2. Rijeka.
+Hrvatski leksikon. 2017. Internet. Pokušaj pristupa 2. prosinca 2019. https://www.hrleksikon.info/definicija/internet.html.
+Martinčić-Ipšić, Sanda. 2019. Uvod u informatiku. 2. listopada.
+1998. The Digital Millennium Copyright Act of 1998. prosinca. https://www.copyright.gov/legislation/dmca.pdf.
+2019. Tiskarski stroj. 7. rujna. Pokušaj pristupa 3. prosinca 2019. https://hr.wikipedia.org/wiki/Tiskarski_stroj.
+World Intellectual Property Organization. 2008. »Chapter 2: Fields of Intellectual Property Protection.« U WIPO Intellectual Property Handbook: Policy, Law and Use, 3. Pokušaj pristupa 3. prosinca 2019. https://www.wipo.int/export/sites/www/about-ip/en/iprm/pdf/ch2.pdf.
+Zakon.hr. 2018. Zakon o autorskom pravu i srodnim pravima. 8. studenoga. Pokušaj pristupa 1. prosinca 2019. https://www.zakon.hr/z/106/Zakon-o-autorskom-pravu-i-srodnim-pravima.
+
+1 Autorsko pravo je pravo autora na posjedovanje i korištenje svojeg djela u području književnosti, znanosti ili umjetnosti. (Zakon.hr 2018)
+2 Internet je sustav međusobno povezanih računalnih mreža. (Hrvatski leksikon 2017) 
+3 Multimedija je informacija spremljena u kombinaciji teksta, grafike, zvuka, animacije i videa objedinjenim putem računala. (Hoić-Božić 2019, 2)
+4 Informatika je znanost koja se bavi prikupljanjem podataka te njihovom automatskom obradom. (Martinčić-Ipšić 2019)
+5 Tiskarski stroj je izumio Nijemac Johannes Gutenberg 1440. godine i pokrenuo tiskarsku revoluciju kada se dio uloženog rada za kopiranje tekstualnog sadržaja znatno smanjio. (Tiskarski stroj 2019)
+6 Patent je oblik intelektualnog vlasništva koji vlasniku daje pravo da svoju inovaciju štiti od tuđeg korištenja ili proizvođenja određeni period vremena. (World Intellectual Property Organization 2008, 3) Osim toga, razlikuje se od autorskog prava po tome što je patent proizvod tehničke i inovativne prirode, dok je autorsko pravo umjetničke i kreativne, te se zbog toga vlasništvo na različite načine legalno štiti.
+7 „Peer-to-peer” (dosl. vršnjak-do-vršnjaka) je način na koji korisnici računala mogu dijeliti podatke koristeći mrežu bez da se spajaju na organizirani centralni server. (Dictionary, Merriam-Webster Inc. n.d.)
+8 Electronic Frontier Foundation je neprofitna organizacija koja se bori za digitalna građanska prava. (Electronic Frontier Foundation n.d.)
+9 Creative Commons je organizacija kojoj je cilj stvaranje javno dostupnog znanja i kulture. Dijeli Creative Commons licence koje olakšavaju korištenje tuđeg rada. (Creative Commons n.d.)
+
+Marino Linić: Zaštita autorskih prava

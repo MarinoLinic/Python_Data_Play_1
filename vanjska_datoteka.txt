@@ -1,0 +1,15 @@
+IMIGRACIJA U HRVATSKU IZ INOZEMSTVA PO ŽUPANIJAMA
+
+			2011	2015	2018
+---------------------------------------------
+Suma:			8534	11706	26029
+Aritmetička sredina*:	406	557	1239
+Mod:			X	X	X
+Medijan:		248	361	795
+Standardna devijacija*:	473	659	1431
+Minimum:		57	90	180
+Maksimum:		2043	2758	6398
+
+
+
+*Aritmetička sredina i standardna devijacija prikazane su bez decimalnih mjesta.
