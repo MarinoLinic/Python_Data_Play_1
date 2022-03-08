@@ -1,4 +1,4 @@
-# Python_Data_Play_1
+# Statistics: Python #1
 Another university project from 2020.
 
 Graphs:
